@@ -1,0 +1,1 @@
+(ip.src.asnum in {%ASNS%} and not cf.client.bot)
